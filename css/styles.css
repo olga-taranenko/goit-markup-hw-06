@@ -357,7 +357,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/bg/bg-mobile-people-office.jpg);
+    url(../images/bg-mobile-people-office.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -369,7 +369,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/bg/bg-mobile-people-office@2x.jpg);
+      url(../images/bg-mobile-people-office@2x.jpg);
   }
 }
 
@@ -417,7 +417,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/bg/bg-tablet-people-office.jpg);
+      url(../images/bg-tablet-people-office.jpg);
   }
 
   .hero-section-title {
@@ -434,7 +434,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/bg/bg-tablet-people-office@2x.jpg);
+      url(../images/bg-tablet-people-office@2x.jpg);
   }
 }
 
@@ -447,7 +447,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/bg/bg-desktop-people-office.jpg);
+      url(../images/bg-desktop-people-office.jpg);
   }
 
   .hero-section-title {
@@ -461,7 +461,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/bg/bg-desktop-people-office@2x.jpg);
+      url(../images/bg-desktop-people-office@2x.jpg);
   }
 }
 /* ================== /Hero section styles ======================= */
